@@ -15,11 +15,3 @@ while True:
 	elem.send_keys(Keys.DOWN)    
 	elem.send_keys(Keys.RIGHT)
 	
-
-
-
-	
-
-
-
-	
